@@ -2,3 +2,7 @@
 
 Edge Detection
 ![](https://github.com/Yash-YC/Deep-Learning-practise-projects/blob/main/Edge_Detection/Ed.gif)
+
+
+FaceDistance_BlinkCounter 
+![](https://github.com/Yash-YC/Deep-Learning-practise-projects/blob/main/FaceDistance_BlinkCounter/Blink.gif)
